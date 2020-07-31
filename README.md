@@ -1,6 +1,6 @@
 # Linear-Regression-Boston_Dataset
 
-#### This is simple dataset for scikit library for doing predication of price 
+#### This is simple jupyter notebook file for dataset of scikit library for doing predication of the house price 
 
 **Requirements**
 
